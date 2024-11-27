@@ -41,7 +41,7 @@ The paper covers:
 ## 🛠️ Korištenje  
 1. **Kloniranje repozitorija:**  
    ```bash  
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/amujalo1/NDInterpolationSeminar.git
 ## 🎯 Cilj  
 Cilj ovog repozitorija je pružiti sveobuhvatan pregled i resurse za razumijevanje, implementaciju i evaluaciju algoritama za višedimenzionalnu interpolaciju.  
 
