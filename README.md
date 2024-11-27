@@ -34,7 +34,6 @@ The paper covers:
 
 ## 📁 Struktura repozitorija  
 - `implementacije/`: Sadrži Julia implementacije algoritama.  
-- `testni_slucajevi/`: Primjeri testnih slučajeva s objašnjenjima rezultata.  
 - `dokumentacija/`: Dodatni materijali, uključujući teorijsku pozadinu i analize.  
 
 ---
