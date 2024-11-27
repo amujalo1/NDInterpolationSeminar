@@ -1,21 +1,45 @@
-Algoritmi za višedimenzionalnu interpolaciju
-Sažetak
-U ovom seminarskom radu istražujemo različite algoritme za višedimenzionalnu interpolaciju, fokusirajući se na analizu i implementaciju u programskom jeziku Julia. Interpolacija je ključna metoda u numeričkom računanju koja se koristi za procjenu vrijednosti funkcija između poznatih tačaka. Ovaj rad obuhvata analizu i implementaciju nekoliko različitih algoritama, uključujući Krigingovu, Shepardovu kao i radijalnu baznu funkciju (RBF) interpolaciju. Svaki algoritam je implementiran u Julia jeziku, uz prikaz testnih slučajeva i rezultata. Rad se završava analizom primjene svakog algoritma u praksi i diskusijom o njihovim performansama.
+# Algoritmi za višedimenzionalnu interpolaciju  
 
-Abstract
-This seminar paper explores various algorithms for multidimensional interpolation, focusing on their analysis and implementation in the Julia programming language. Interpolation is a crucial method in numerical computing used for estimating function values between known points. This paper covers the analysis and implementation of different algorithms, including Radial Basis Function (RBF), Kriging, and Shepard interpolation. Each algorithm is implemented in Julia, with test cases and results presented. The paper concludes with an analysis of each algorithm’s practical applications and a discussion of their performance.
+## 📄 Sažetak  
+U ovom seminarskom radu istražujemo različite algoritme za višedimenzionalnu interpolaciju, fokusirajući se na analizu i implementaciju u programskom jeziku Julia.  
+Interpolacija je ključna metoda u numeričkom računanju koja se koristi za procjenu vrijednosti funkcija između poznatih tačaka.  
 
-Sadržaj repozitorija
-Implementacije algoritama:
-Kriging interpolacija
-Shepard interpolacija
-Radijalna bazna funkcija (RBF) interpolacija
-Primjeri testnih slučajeva:
-Unutar mape implementacije nalaze se primjeri koda u Julia jeziku koji demonstriraju upotrebu navedenih algoritama na različitim skupovima podataka.
-Uputstvo za korištenje
-Klonirajte repozitorij:
-bash
-Copy code
-git clone https://github.com/username/repository-name.git  
-Otvorite projekt u svom omiljenom editoru (preporučeno: Visual Studio Code).
-Pokrenite primjere iz direktorija implementacije koristeći Julia REPL.
+Seminarski rad obuhvata:  
+- **Analizu i implementaciju različitih algoritama:**  
+  - Kriging interpolacija  
+  - Shepard interpolacija  
+  - Radijalna bazna funkcija (RBF) interpolacija  
+- **Primjere testnih slučajeva i rezultata:**  
+  Implementacije algoritama prikazuju se na realnim podacima, sa ciljem analize tačnosti i performansi.  
+- **Diskusiju o primjenama:**  
+  Rad se završava analizom praktične primjene algoritama i diskusijom o njihovim prednostima i nedostacima.  
+
+---
+
+## 🌟 Abstract  
+This seminar paper explores various algorithms for multidimensional interpolation, focusing on their analysis and implementation in the Julia programming language.  
+Interpolation is a crucial method in numerical computing used for estimating function values between known points.  
+
+The paper covers:  
+- **Analysis and implementation of different algorithms:**  
+  - Kriging interpolation  
+  - Shepard interpolation  
+  - Radial Basis Function (RBF) interpolation  
+- **Test cases and results:**  
+  Implementations of the algorithms are showcased on real-world data to analyze accuracy and performance.  
+- **Discussion of applications:**  
+  The paper concludes with a practical analysis of each algorithm and a discussion of their strengths and limitations.  
+
+---
+
+## 📁 Struktura repozitorija  
+- `implementacije/`: Sadrži Julia implementacije algoritama.  
+- `testni_slucajevi/`: Primjeri testnih slučajeva s objašnjenjima rezultata.  
+- `dokumentacija/`: Dodatni materijali, uključujući teorijsku pozadinu i analize.  
+
+---
+
+## 🛠️ Korištenje  
+1. **Kloniranje repozitorija:**  
+   ```bash  
+   git clone https://github.com/username/repository-name.git  
