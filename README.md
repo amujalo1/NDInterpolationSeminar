@@ -42,3 +42,13 @@ The paper covers:
 1. **Kloniranje repozitorija:**  
    ```bash  
    git clone https://github.com/username/repository-name.git  
+## 🎯 Cilj  
+Cilj ovog repozitorija je pružiti sveobuhvatan pregled i resurse za razumijevanje, implementaciju i evaluaciju algoritama za višedimenzionalnu interpolaciju.  
+
+## ✍️ Autor  
+**Amer Mujalo**  
+Student Fakulteta elektrotehnike (RI), Sarajevo  
+[GitHub profil](https://github.com/amujalo1)  
+
+📧 Kontakt: [amujalo1@etf.unsa.ba](mailto:amujalo1@etf.unsa.ba)  
+
