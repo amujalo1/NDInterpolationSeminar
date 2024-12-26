@@ -54,7 +54,7 @@ end
 
 for (p, error_matrix) in error_results
     println("Mean Relative Error for p = $p:")
-    println(mean(error_matrix))  # Print the mean relative error
+    println(mean(error_matrix)) 
 
     surface(X, Y, error_matrix, xlabel="x", ylabel="y", zlabel="Relative Error",
             title="Relative Error Surface Plot for p = $p")
